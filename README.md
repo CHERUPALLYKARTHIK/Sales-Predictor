@@ -116,6 +116,3 @@ GitHub: https://github.com/CHERUPALLYKARTHIK
 
 This project is licensed under the [MIT License](LICENSE).
 
-```
-Let me know if you’d like me to fill in your real name, GitHub link, or make a `requirements.txt` file to go with this!
-```
