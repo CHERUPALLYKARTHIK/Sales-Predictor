@@ -1,8 +1,4 @@
-Absolutely! Here's your updated and friendly-style `README.md` for the **Sales Predictor Web App**, modeled after the format you like — with ✨ emojis and simple structure, plus a few extra suggested features.
 
----
-
-````markdown
 📊 **Sales Predictor Web App**
 
 Sales Predictor is a simple and interactive web application built using **Flask** and **Python**. It allows users to upload historical sales data, choose a machine learning model, and generate sales forecasts for upcoming months — all with visual charts and performance metrics!
