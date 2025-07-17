@@ -3,8 +3,6 @@
 
 Sales Predictor is a simple and interactive web application built using **Flask** and **Python**. It allows users to upload historical sales data, choose a machine learning model, and generate sales forecasts for upcoming months — all with visual charts and performance metrics!
 
----
-
 💡 **Features**
 
 ✅ Upload your sales data in CSV format  
@@ -30,7 +28,7 @@ Sales Predictor is a simple and interactive web application built using **Flask*
 📁 Simple folder structure and easy to run  
 📱 Runs in your browser — no frontend coding needed!
 
----
+
 
 🛠 **Tech Stack**
 
@@ -40,7 +38,7 @@ Sales Predictor is a simple and interactive web application built using **Flask*
 - Visualization: **Matplotlib, Seaborn**
 - Frontend: **HTML + Jinja Templates**
 
----
+
 
 ⚙️ **How to Run Locally**
 
@@ -81,7 +79,7 @@ date,sales
 
 Only the `date` and `sales` columns are required.
 
----
+
 
 📁 **Folder Structure**
 
@@ -106,21 +104,18 @@ sales-predictor/
 * 🌐 Deploy on Render, Heroku, or PythonAnywhere
 * 🔐 Add simple user login to track saved predictions
 
----
+
 
 👤 **Author**
 Cherupally Karthik
 GitHub: https://github.com/CHERUPALLYKARTHIK
 
----
+
 
 📄 **License**
 
 This project is licensed under the [MIT License](LICENSE).
 
 ```
-
----
-
 Let me know if you’d like me to fill in your real name, GitHub link, or make a `requirements.txt` file to go with this!
 ```
